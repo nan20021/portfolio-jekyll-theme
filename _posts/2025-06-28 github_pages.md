@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Using GitHub Pages"
+date: 2025-06-28
+categories: [jekyll, notebook]
+---
+
 ```python
 import pandas as pd
 import numpy as np
